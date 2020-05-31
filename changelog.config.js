@@ -1,3 +1,3 @@
 module.exports = {
-    "disableEmoji": false,
-}
+  disableEmoji: false,
+};
