@@ -1,14 +1,14 @@
 {
-  "name": "javascript-library-template",
+  "name": "ecmascript-library-template",
   "version": "0.0.0-development",
   "private": false,
-  "description": "JavaScript library template to focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping",
+  "description": "Ecmascript library template to focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping",
   "repository": {
     "type": "git",
     "url": "https://github.com/vvo/javascript-library-template.git"
   },
   "license": "MIT",
-  "author": "Vincent Voyer <vincent@codeagain.com>",
+  "author": "Vaibhav Arora <varora1406@gmail.com>",
   "main": "dist/",
   "files": [
     "dist/",
