@@ -1,4 +1,4 @@
-# javascript-library-template [![GitHub license](https://img.shields.io/github/license/vvo/javascript-library-template?style=flat)](https://github.com/varora1406/ecmascript-library-template/blob/master/LICENSE) [![Tests](https://github.com/varora1406/ecmascript-library-template/workflows/CI/badge.svg)](https://github.com/varora1406/ecmascript-library-template/actions) [![codecov](https://codecov.io/gh/varora1406/ecmascript-library-template/branch/master/graph/badge.svg)](https://codecov.io/gh/vvo/javascript-library-template) ![npm](https://img.shields.io/npm/v/javascript-library-template)
+# ecmaScript-library-template [![GitHub license](https://img.shields.io/github/license/varora1406/ecmascript-library-template?style=flat)](https://github.com/varora1406/ecmascript-library-template/blob/master/LICENSE) [![Tests](https://github.com/varora1406/ecmascript-library-template/workflows/CI/badge.svg)](https://github.com/varora1406/ecmascript-library-template/actions) [![codecov](https://codecov.io/gh/varora1406/ecmascript-library-template/branch/master/graph/badge.svg)](https://codecov.io/gh/varora1406/ecmascript-library-template) ![npm](https://img.shields.io/npm/varora1406/ecmascript-library-template)
 
 <p align="center">
 <small><b>Click below to create a new GitHub repository using this template:</b></small>
@@ -9,9 +9,9 @@
 
 ---
 
-**This JavaScript library template** allows you to easily develop, collaborate on and publish a JavaScript library with all the modern tooling you'd expect from the current JavaScript ecosystem.
+**This EcmaScript library template** allows you to easily develop, collaborate on and publish a EcmaScript library with all the modern tooling you'd expect from the current EcmaScript ecosystem.
 
-**Why should you use this?** One of the hidden challenges of authoring opensource JavaScript libraries is to provide a project that is easy to contribute to. You want people to join your project. Doing so requires a good amount of boilerplate: testing, code coverage, dependencies maintenance, release scripts, tooling requirements (Node.js, Yarn and which versions are we using again?), code editor configuration, formatting, linting... Well, this is the goal of this template: **to provide sensible and modern defaults to all those subjects**. So that once set up, you can focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping.
+**Why should you use this?** One of the hidden challenges of authoring opensource EcmaScript libraries is to provide a project that is easy to contribute to. You want people to join your project. Doing so requires a good amount of boilerplate: testing, code coverage, dependencies maintenance, release scripts, tooling requirements (Node.js, Yarn and which versions are we using again?), code editor configuration, formatting, linting... Well, this is the goal of this template: **to provide sensible and modern defaults to all those subjects**. So that once set up, you can focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping.
 
 **The goals of the template are to:**
 
@@ -23,7 +23,7 @@
 
 - [EditorConfig](https://editorconfig.org/): easy contributions from any code editor.
 - [ESLint](https://eslint.org/): launched in the `test` script.
-- [Prettier](https://prettier.io/): launched in the `test` script, with markdown, JavaScript, CSS and JSON files support (including automatic [`package.json` formatting](https://github.com/matzkoh/prettier-plugin-packagejson)).
+- [Prettier](https://prettier.io/): launched in the `test` script, with markdown, EcmaScript, CSS and JSON files support (including automatic [`package.json` formatting](https://github.com/matzkoh/prettier-plugin-packagejson)).
 - Automatic VSCode formatting and linting: using VSCode extensions recommendations and workspace settings in .`vscode/` folder.
 - [Yarn](http://yarnpkg.com/) version pinning: via [Yarn policies](https://classic.yarnpkg.com/en/docs/cli/policies/), so anyone contributing or any system accessing your library will use the same Yarn version without having to think about it.
 - [Node.js](https://nodejs.org/) version pinning: via [nvm](https://github.com/nvm-sh/nvm), so anyone contributing or any system accessing your library will use the same Node.js version without having to think about it.
@@ -31,7 +31,7 @@
 - [GitHub actions](https://github.com/features/actions): automatic testing and releasing from GitHub: npm publish and GitHub releases are automatically created. Note that the package.json in your repository is never updated (the version is always `0.0.0-development`), only the one in npm is updated. This is surprising at first but as long as you display the published version in your README (like this template does) then you're fine. Find more information about this in the [semantic-release documentation](https://semantic-release.gitbook.io/semantic-release/support/faq#why-is-the-package-jsons-version-not-updated-in-my-repository).
 - [semantic-release](https://semantic-release.gitbook.io/semantic-release/): allows for automatic releases based on semver.org and [conventional commits specification](https://www.conventionalcommits.org/). The defaults are taken from the [Angular git commit guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines).
 - [Codecov](https://codecov.io/): launched in the `test` script on CI, ensures code coverage does not decrease on pull requests _(free for public and private repositories)_.
-- [Renovate](https://renovate.whitesourcesoftware.com/) configurated with the [JavaScript library preset](https://docs.renovatebot.com/presets-config/#configjs-lib): this will automatically update your dependencies by opening pull request for you to approve or not. So you never have to think about it _(free for public and private repositories)_.
+- [Renovate](https://renovate.whitesourcesoftware.com/) configurated with the [EcmaScript library preset](https://docs.renovatebot.com/presets-config/#configjs-lib): this will automatically update your dependencies by opening pull request for you to approve or not. So you never have to think about it _(free for public and private repositories)_.
 
 ## Setup
 
@@ -61,13 +61,13 @@ Using this template requires a bit of setup, but way less than if you had to sta
 
 ## Status and next steps
 
-The template is still pretty new (March 2020) and was done to author JavaScript libraries using ECMAScript modules for Node.js >= 12. Gradually, or given requests, **we could update it to support**:
+The template is still pretty new (March 2020) and was done to author EcmaScript libraries using ECMAScript modules for Node.js >= 12. Gradually, or given requests, **we could update it to support**:
 
 - Using different CI environments than GitHub actions
 - Authoring browser libraries
 - Generating `README.md` table of contents automatically
 - Better default `README.md` content (Install, API, Examples, ...)
-- `create-javascript-library` command line that would get most of the setup done easily
+- `create-EcmaScript-library` command line that would get most of the setup done easily
 - `.github` Pull requests template, issues templates, CONTRIBUTING files
 - add or change scripts to allow for auto-formatting
 - provide documentation on how to protect branches on GitHub
