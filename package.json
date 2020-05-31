@@ -25,18 +25,6 @@
     "semantic-release": "semantic-release",
     "test": "jest --coverage && yarn lint"
   },
-  "babel": {
-    "presets": [
-      [
-        "@babel/preset-env",
-        {
-          "targets": {
-            "node": "12"
-          }
-        }
-      ]
-    ]
-  },
   "prettier": {
     "trailingComma": "all"
   },
