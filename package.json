@@ -5,7 +5,7 @@
   "description": "Ecmascript library template to focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vvo/javascript-library-template.git"
+    "url": "https://github.com/varora1406/ecmascript-library-template.git"
   },
   "license": "MIT",
   "author": "Vaibhav Arora <varora1406@gmail.com>",
