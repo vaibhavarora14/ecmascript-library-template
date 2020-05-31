@@ -1,8 +1,8 @@
-# javascript-library-template [![GitHub license](https://img.shields.io/github/license/vvo/javascript-library-template?style=flat)](https://github.com/vvo/javascript-library-template/blob/master/LICENSE) [![Tests](https://github.com/vvo/javascript-library-template/workflows/CI/badge.svg)](https://github.com/vvo/javascript-library-template/actions) [![codecov](https://codecov.io/gh/vvo/javascript-library-template/branch/master/graph/badge.svg)](https://codecov.io/gh/vvo/javascript-library-template) ![npm](https://img.shields.io/npm/v/javascript-library-template)
+# javascript-library-template [![GitHub license](https://img.shields.io/github/license/vvo/javascript-library-template?style=flat)](https://github.com/varora1406/ecmascript-library-template/blob/master/LICENSE) [![Tests](https://github.com/varora1406/ecmascript-library-template/workflows/CI/badge.svg)](https://github.com/varora1406/ecmascript-library-template/actions) [![codecov](https://codecov.io/gh/varora1406/ecmascript-library-template/branch/master/graph/badge.svg)](https://codecov.io/gh/vvo/javascript-library-template) ![npm](https://img.shields.io/npm/v/javascript-library-template)
 
 <p align="center">
 <small><b>Click below to create a new GitHub repository using this template:</b></small>
-<br/><br/><a href="https://github.com/vvo/javascript-library-template/generate">
+<br/><br/><a href="https://github.com/varora1406/ecmascript-library-template/generate">
 <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github">
 </a>
 </p>
@@ -76,7 +76,7 @@ The template is still pretty new (March 2020) and was done to author JavaScript 
 - contributors list
 - https://github.com/apps/semantic-pull-requests
 
-If you'd like to participate, if you have bugs or new ideas, [open an issue](https://github.com/vvo/javascript-library-template/issues/new) or a pull request.
+If you'd like to participate, if you have bugs or new ideas, [open an issue](https://github.com/varora1406/ecmascript-library-template/issues/new) or a pull request.
 
 ## Recipes
 
