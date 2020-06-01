@@ -11,8 +11,7 @@
 
 **This EcmaScript library template** allows you to easily develop, collaborate on and publish a EcmaScript library with all the modern tooling you'd expect from the current EcmaScript ecosystem.
 
-**Why should you use this?** One of the hidden challenges of authoring opensource EcmaScript libraries is to provide a project that is easy to contribute to. You want people to join your project. Doing so requires a good amount of boilerplate: testing, code coverage, dependencies maintenance, release scripts, tooling requirements (Node.js, Yarn and which versions are we using again?), code editor configuration, formatting, linting... Well, this is the goal of this template: **to provide sensible and modern defaults to all those subjects**.
-So that once set up, you can focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping.
+**Why should you use this?** One of the hidden challenges of authoring opensource EcmaScript libraries is to provide a project that is easy to contribute to. You want people to join your project. Doing so requires a good amount of boilerplate: testing, code coverage, dependencies maintenance, release scripts, tooling requirements (Node.js, Yarn and which versions are we using again?), code editor configuration, formatting, linting... Well, this is the goal of this template: **to provide sensible and modern defaults to all those subjects**.So that once set up, you can focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping.
 
 **The goals of the template are to:**
 
